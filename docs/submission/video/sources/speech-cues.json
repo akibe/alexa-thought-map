@@ -1,0 +1,274 @@
+[
+  {
+    "block": 1,
+    "role": "Narrator",
+    "voice": "af_heart",
+    "text": "I was still thinking.",
+    "start": 0.8,
+    "end": 2.296625
+  },
+  {
+    "block": 1,
+    "role": "Narrator",
+    "voice": "af_heart",
+    "text": "Then came an answer. A solution.",
+    "start": 3.796625,
+    "end": 6.156625
+  },
+  {
+    "block": 1,
+    "role": "Narrator",
+    "voice": "af_heart",
+    "text": "And I lost what I was about to say.",
+    "start": 7.656625,
+    "end": 9.879958333333333
+  },
+  {
+    "block": 1,
+    "role": "Narrator",
+    "voice": "af_heart",
+    "text": "What if an AI waited?",
+    "start": 11.379958333333333,
+    "end": 13.068583333333333
+  },
+  {
+    "block": 2,
+    "role": "Speaker",
+    "voice": "am_michael",
+    "text": "I cannot decide how to introduce myself at next week's talk.",
+    "start": 20.8,
+    "end": 25.066666666666666
+  },
+  {
+    "block": 2,
+    "role": "Speaker",
+    "voice": "am_michael",
+    "text": "I have too many job titles to describe myself in one sentence.",
+    "start": 26.566666666666666,
+    "end": 31.196
+  },
+  {
+    "block": 2,
+    "role": "Assistant voice",
+    "voice": "af_bella",
+    "text": "Mm-hm.",
+    "start": 32.696,
+    "end": 33.812625
+  },
+  {
+    "block": 2,
+    "role": "Speaker",
+    "voice": "am_michael",
+    "text": "I do not know the going rate for this new project.",
+    "start": 35.312625,
+    "end": 38.74729166666667
+  },
+  {
+    "block": 2,
+    "role": "Speaker",
+    "voice": "am_michael",
+    "text": "I actually want to do more music work.",
+    "start": 40.24729166666667,
+    "end": 43.127291666666665
+  },
+  {
+    "block": 2,
+    "role": "Assistant voice",
+    "voice": "af_bella",
+    "text": "I'm listening.",
+    "start": 44.627291666666665,
+    "end": 45.65858333333333
+  },
+  {
+    "block": 2,
+    "role": "Speaker",
+    "voice": "am_michael",
+    "text": "I cannot say no when someone asks me for help.",
+    "start": 47.15858333333333,
+    "end": 50.65725
+  },
+  {
+    "block": 2,
+    "role": "Speaker",
+    "voice": "am_michael",
+    "text": "Next month is already fully booked.",
+    "start": 52.15725,
+    "end": 54.75991666666667
+  },
+  {
+    "block": 3,
+    "role": "Speaker",
+    "voice": "am_michael",
+    "text": "Show me.",
+    "start": 60.8,
+    "end": 61.822625
+  },
+  {
+    "block": 3,
+    "role": "Narrator",
+    "voice": "af_heart",
+    "text": "Only when I ask does the map appear.",
+    "start": 63.322625,
+    "end": 65.60995833333334
+  },
+  {
+    "block": 3,
+    "role": "Narrator",
+    "voice": "af_heart",
+    "text": "Here, sixteen invented statements use fixed, handwritten analysis.",
+    "start": 67.10995833333334,
+    "end": 71.65195833333334
+  },
+  {
+    "block": 3,
+    "role": "Narrator",
+    "voice": "af_heart",
+    "text": "First, the words gather by topic.",
+    "start": 73.15195833333334,
+    "end": 75.54458333333334
+  },
+  {
+    "block": 4,
+    "role": "Narrator",
+    "voice": "af_heart",
+    "text": "Then the topic boundaries loosen.",
+    "start": 77.8,
+    "end": 79.90533333333333
+  },
+  {
+    "block": 4,
+    "role": "Narrator",
+    "voice": "af_heart",
+    "text": "Job titles and project pricing meet under a possible root:",
+    "start": 81.40533333333333,
+    "end": 85.38333333333334
+  },
+  {
+    "block": 4,
+    "role": "Narrator",
+    "voice": "af_heart",
+    "text": "I have not chosen how to describe my work.",
+    "start": 86.88333333333334,
+    "end": 89.65733333333333
+  },
+  {
+    "block": 4,
+    "role": "Narrator",
+    "voice": "af_heart",
+    "text": "A connection to consider, not a hidden truth.",
+    "start": 91.15733333333333,
+    "end": 93.99395833333334
+  },
+  {
+    "block": 4,
+    "role": "Narrator",
+    "voice": "af_heart",
+    "text": "The words stay. What changes is how they relate.",
+    "start": 95.49395833333334,
+    "end": 98.80129166666667
+  },
+  {
+    "block": 5,
+    "role": "Narrator",
+    "voice": "af_heart",
+    "text": "From all those concerns, one starting point comes forward.",
+    "start": 105.8,
+    "end": 109.30066666666667
+  },
+  {
+    "block": 5,
+    "role": "Narrator",
+    "voice": "af_heart",
+    "text": "Write a one-sentence introduction using one job title.",
+    "start": 109.96579166666666,
+    "end": 113.795125
+  },
+  {
+    "block": 5,
+    "role": "Narrator",
+    "voice": "af_heart",
+    "text": "The other thoughts remain.",
+    "start": 114.46025,
+    "end": 116.10620833333333
+  },
+  {
+    "block": 5,
+    "role": "Narrator",
+    "voice": "af_heart",
+    "text": "I do not have to solve everything to begin.",
+    "start": 116.77133333333333,
+    "end": 119.4
+  },
+  {
+    "block": 6,
+    "role": "Narrator",
+    "voice": "af_heart",
+    "text": "A transcript can give me the same tangle in text.",
+    "start": 120.8,
+    "end": 123.82266666666666
+  },
+  {
+    "block": 6,
+    "role": "Narrator",
+    "voice": "af_heart",
+    "text": "A summary can smooth away words that matter to me.",
+    "start": 125.32266666666666,
+    "end": 128.28133333333332
+  },
+  {
+    "block": 6,
+    "role": "Narrator",
+    "voice": "af_heart",
+    "text": "Go On keeps those words, and rearranges their connections.",
+    "start": 129.78133333333332,
+    "end": 133.632
+  },
+  {
+    "block": 6,
+    "role": "Narrator",
+    "voice": "af_heart",
+    "text": "The aim is to see my own thinking from another angle.",
+    "start": 135.132,
+    "end": 138.420625
+  },
+  {
+    "block": 6,
+    "role": "Narrator",
+    "voice": "af_heart",
+    "text": "A map of what is on my mind.",
+    "start": 139.920625,
+    "end": 141.812625
+  },
+  {
+    "block": 7,
+    "role": "Narrator",
+    "voice": "af_heart",
+    "text": "The design leaves room for thoughts to accumulate across days.",
+    "start": 150.8,
+    "end": 154.56933333333333
+  },
+  {
+    "block": 7,
+    "role": "Narrator",
+    "voice": "af_heart",
+    "text": "That experience still needs testing.",
+    "start": 155.93333333333334,
+    "end": 158.10266666666666
+  },
+  {
+    "block": 7,
+    "role": "Narrator",
+    "voice": "af_heart",
+    "text": "Before an AI answers, leave time to catch up with your own thoughts.",
+    "start": 159.46666666666667,
+    "end": 163.74266666666668
+  },
+  {
+    "block": 7,
+    "role": "Narrator",
+    "voice": "af_heart",
+    "text": "Go On. An AI that listens.",
+    "start": 165.10666666666665,
+    "end": 167.5
+  }
+]

@@ -1,0 +1,326 @@
+{
+  "status": "ready",
+  "pending_count": 0,
+  "root_sentence": "I have not chosen how to describe my work.",
+  "next_action": "Write a one-sentence introduction using one job title.",
+  "analysis": {
+    "version": 16,
+    "source": "demo:section8-english-handwritten",
+    "fragments": [
+      {
+        "id": 1,
+        "text": "I cannot decide how to introduce myself at next week's talk.",
+        "received_at": "2026-10-22T12:00:00.000Z",
+        "topic": "Identity & presence",
+        "direction": "uncertain",
+        "intensity": "medium"
+      },
+      {
+        "id": 2,
+        "text": "I have too many job titles to describe myself in one sentence.",
+        "received_at": "2026-10-22T12:00:00.000Z",
+        "topic": "Identity & presence",
+        "direction": "uncertain",
+        "intensity": "medium"
+      },
+      {
+        "id": 3,
+        "text": "I still have not sent the invoice.",
+        "received_at": "2026-10-22T12:00:00.000Z",
+        "topic": "Work admin",
+        "direction": "must_do",
+        "intensity": "medium"
+      },
+      {
+        "id": 4,
+        "text": "I have not updated my portfolio website for two years.",
+        "received_at": "2026-10-22T12:00:00.000Z",
+        "topic": "Identity & presence",
+        "direction": "must_do",
+        "intensity": "medium"
+      },
+      {
+        "id": 5,
+        "text": "I do not know the going rate for this new project.",
+        "received_at": "2026-10-22T12:00:00.000Z",
+        "topic": "Work admin",
+        "direction": "uncertain",
+        "intensity": "medium"
+      },
+      {
+        "id": 6,
+        "text": "I have not been drawing lately.",
+        "received_at": "2026-10-22T12:00:00.000Z",
+        "topic": "Creative work",
+        "direction": "want_to",
+        "intensity": "medium"
+      },
+      {
+        "id": 7,
+        "text": "I spend all evening looking at my phone.",
+        "received_at": "2026-10-22T12:00:00.000Z",
+        "topic": "Daily life & energy",
+        "direction": "avoid",
+        "intensity": "medium"
+      },
+      {
+        "id": 8,
+        "text": "I still have not replied to that person.",
+        "received_at": "2026-10-22T12:00:00.000Z",
+        "topic": "Relationships",
+        "direction": "must_do",
+        "intensity": "medium"
+      },
+      {
+        "id": 9,
+        "text": "I actually want to do more music work.",
+        "received_at": "2026-10-22T12:00:00.000Z",
+        "topic": "Creative work",
+        "direction": "want_to",
+        "intensity": "medium"
+      },
+      {
+        "id": 10,
+        "text": "I cannot say no when someone asks me for help.",
+        "received_at": "2026-10-22T12:00:00.000Z",
+        "topic": "Relationships",
+        "direction": "avoid",
+        "intensity": "medium"
+      },
+      {
+        "id": 11,
+        "text": "I think I priced that estimate too low.",
+        "received_at": "2026-10-22T12:00:00.000Z",
+        "topic": "Work admin",
+        "direction": "anxious",
+        "intensity": "medium"
+      },
+      {
+        "id": 12,
+        "text": "I cannot shake this tiredness.",
+        "received_at": "2026-10-22T12:00:00.000Z",
+        "topic": "Daily life & energy",
+        "direction": "anxious",
+        "intensity": "medium"
+      },
+      {
+        "id": 13,
+        "text": "Next month is already fully booked.",
+        "received_at": "2026-10-22T12:00:00.000Z",
+        "topic": "Schedule",
+        "direction": "anxious",
+        "intensity": "medium"
+      },
+      {
+        "id": 14,
+        "text": "What am I really good at?",
+        "received_at": "2026-10-22T12:00:00.000Z",
+        "topic": "Identity & presence",
+        "direction": "uncertain",
+        "intensity": "medium"
+      },
+      {
+        "id": 15,
+        "text": "I have stopped posting on social media.",
+        "received_at": "2026-10-22T12:00:00.000Z",
+        "topic": "Identity & presence",
+        "direction": "must_do",
+        "intensity": "medium"
+      },
+      {
+        "id": 16,
+        "text": "I feel rushed all the time.",
+        "received_at": "2026-10-22T12:00:00.000Z",
+        "topic": "Feelings",
+        "direction": "anxious",
+        "intensity": "medium"
+      }
+    ],
+    "session_theme": "Finding a direction for work and creativity, and making room for both.",
+    "topics": [
+      {
+        "topic": "Identity & presence",
+        "fragment_ids": [
+          1,
+          2,
+          4,
+          14,
+          15
+        ]
+      },
+      {
+        "topic": "Work admin",
+        "fragment_ids": [
+          3,
+          5,
+          11
+        ]
+      },
+      {
+        "topic": "Creative work",
+        "fragment_ids": [
+          6,
+          9
+        ]
+      },
+      {
+        "topic": "Daily life & energy",
+        "fragment_ids": [
+          7,
+          12
+        ]
+      },
+      {
+        "topic": "Relationships",
+        "fragment_ids": [
+          8,
+          10
+        ]
+      },
+      {
+        "topic": "Schedule",
+        "fragment_ids": [
+          13
+        ]
+      },
+      {
+        "topic": "Feelings",
+        "fragment_ids": [
+          16
+        ]
+      }
+    ],
+    "conditions": [
+      {
+        "fragment_id": 1,
+        "condition": "I have not chosen how to describe my work."
+      },
+      {
+        "fragment_id": 2,
+        "condition": "I have not chosen how to describe my work."
+      },
+      {
+        "fragment_id": 3,
+        "condition": "Send the invoice."
+      },
+      {
+        "fragment_id": 4,
+        "condition": "I have not chosen how to describe my work."
+      },
+      {
+        "fragment_id": 5,
+        "condition": "I have not chosen how to describe my work."
+      },
+      {
+        "fragment_id": 6,
+        "condition": "I cannot say no, so there is no room left."
+      },
+      {
+        "fragment_id": 7,
+        "condition": "I cannot say no, so there is no room left."
+      },
+      {
+        "fragment_id": 8,
+        "condition": "Reply to the message."
+      },
+      {
+        "fragment_id": 9,
+        "condition": "I have not chosen how to describe my work."
+      },
+      {
+        "fragment_id": 10,
+        "condition": "I cannot say no, so there is no room left."
+      },
+      {
+        "fragment_id": 11,
+        "condition": "I have not chosen how to describe my work."
+      },
+      {
+        "fragment_id": 12,
+        "condition": "I cannot say no, so there is no room left."
+      },
+      {
+        "fragment_id": 13,
+        "condition": "I cannot say no, so there is no room left."
+      },
+      {
+        "fragment_id": 14,
+        "condition": "I have not chosen how to describe my work."
+      },
+      {
+        "fragment_id": 15,
+        "condition": "I have not chosen how to describe my work."
+      },
+      {
+        "fragment_id": 16,
+        "condition": "Understand what is behind the feeling of urgency."
+      }
+    ],
+    "roots": [
+      {
+        "root_id": 1,
+        "sentence": "I have not chosen how to describe my work.",
+        "fragment_ids": [
+          1,
+          2,
+          4,
+          5,
+          9,
+          11,
+          14,
+          15
+        ],
+        "leverage": 8,
+        "actionability": "yes",
+        "reason": "Writing one sentence is a step I can take myself.",
+        "next_action": "Write a one-sentence introduction using one job title.",
+        "score": 16
+      },
+      {
+        "root_id": 6,
+        "sentence": "I cannot say no, so there is no room left.",
+        "fragment_ids": [
+          6,
+          7,
+          10,
+          12,
+          13
+        ],
+        "leverage": 5,
+        "actionability": "partial",
+        "reason": "I may not be able to change every commitment, but I can look for a small opening.",
+        "next_action": "Choose one short slot in this week for myself.",
+        "score": 5
+      }
+    ],
+    "focus": {
+      "root_id": 1,
+      "sentence": "I have not chosen how to describe my work.",
+      "actionability": "yes",
+      "reason": "Writing one sentence is a step I can take myself.",
+      "next_action": "Write a one-sentence introduction using one job title.",
+      "score": 16
+    },
+    "unmatched_fragment_ids": [
+      3,
+      8,
+      16
+    ],
+    "usage": null,
+    "provenance": {
+      "attributes": {
+        "source": "demo:section8-english-handwritten",
+        "usage": null
+      },
+      "roots": {
+        "source": "demo:section8-english-handwritten",
+        "usage": null
+      },
+      "priority": {
+        "source": "demo:section8-english-handwritten",
+        "usage": null
+      }
+    }
+  },
+  "description": "Synthetic fixed English translation of tests/fixtures/section8-map.json; hand-authored inputs and results, never model output."
+}

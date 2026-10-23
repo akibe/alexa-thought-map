@@ -1,0 +1,17 @@
+{
+  "duration_seconds": 170.0,
+  "width": 1920,
+  "height": 1080,
+  "fps": "24/1",
+  "video_codec": "h264",
+  "audio_codec": "aac",
+  "audio_sample_rate": "24000",
+  "caption_cues": 34,
+  "caption_source": "../audio/cues.json",
+  "decode": "pass",
+  "real_demo_bubbles": 16,
+  "capture_seconds": 68.004,
+  "capture_requests_loopback_only": true,
+  "sha256": "a7af1feb502efd1a84860e52ed47f704bd76b5d226bae01fd2ebf184da5b6cde",
+  "bytes": 4512185
+}

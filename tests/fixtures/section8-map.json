@@ -1,0 +1,325 @@
+{
+  "status": "ready",
+  "pending_count": 0,
+  "root_sentence": "自分を一言で言えると決めていない",
+  "next_action": "肩書きを一つに絞った自己紹介を一文で書く",
+  "analysis": {
+    "version": 16,
+    "source": "test:section8-handwritten",
+    "fragments": [
+      {
+        "id": 1,
+        "text": "来週の登壇の自己紹介、何を言えばいいか決まらない",
+        "received_at": "2026-10-22T12:00:00.000Z",
+        "topic": "発信",
+        "direction": "uncertain",
+        "intensity": "medium"
+      },
+      {
+        "id": 2,
+        "text": "肩書きが多すぎて一言で言えない",
+        "received_at": "2026-10-22T12:00:00.000Z",
+        "topic": "発信",
+        "direction": "uncertain",
+        "intensity": "medium"
+      },
+      {
+        "id": 3,
+        "text": "請求書まだ出してない",
+        "received_at": "2026-10-22T12:00:00.000Z",
+        "topic": "仕事の事務",
+        "direction": "must_do",
+        "intensity": "medium"
+      },
+      {
+        "id": 4,
+        "text": "ポートフォリオサイト、2年更新してない",
+        "received_at": "2026-10-22T12:00:00.000Z",
+        "topic": "発信",
+        "direction": "must_do",
+        "intensity": "medium"
+      },
+      {
+        "id": 5,
+        "text": "新しい案件の見積もり、相場がわからない",
+        "received_at": "2026-10-22T12:00:00.000Z",
+        "topic": "仕事の事務",
+        "direction": "uncertain",
+        "intensity": "medium"
+      },
+      {
+        "id": 6,
+        "text": "最近、絵を描いてない",
+        "received_at": "2026-10-22T12:00:00.000Z",
+        "topic": "創作",
+        "direction": "want_to",
+        "intensity": "medium"
+      },
+      {
+        "id": 7,
+        "text": "夜ずっとスマホ見てる",
+        "received_at": "2026-10-22T12:00:00.000Z",
+        "topic": "生活と体",
+        "direction": "avoid",
+        "intensity": "medium"
+      },
+      {
+        "id": 8,
+        "text": "あの人に返信してない",
+        "received_at": "2026-10-22T12:00:00.000Z",
+        "topic": "人間関係",
+        "direction": "must_do",
+        "intensity": "medium"
+      },
+      {
+        "id": 9,
+        "text": "本当は音楽の仕事をもっと増やしたい",
+        "received_at": "2026-10-22T12:00:00.000Z",
+        "topic": "創作",
+        "direction": "want_to",
+        "intensity": "medium"
+      },
+      {
+        "id": 10,
+        "text": "頼まれると断れない",
+        "received_at": "2026-10-22T12:00:00.000Z",
+        "topic": "人間関係",
+        "direction": "avoid",
+        "intensity": "medium"
+      },
+      {
+        "id": 11,
+        "text": "見積もり、安くしすぎた気がする",
+        "received_at": "2026-10-22T12:00:00.000Z",
+        "topic": "仕事の事務",
+        "direction": "anxious",
+        "intensity": "medium"
+      },
+      {
+        "id": 12,
+        "text": "疲れが抜けない",
+        "received_at": "2026-10-22T12:00:00.000Z",
+        "topic": "生活と体",
+        "direction": "anxious",
+        "intensity": "medium"
+      },
+      {
+        "id": 13,
+        "text": "来月の予定がもう埋まってる",
+        "received_at": "2026-10-22T12:00:00.000Z",
+        "topic": "予定",
+        "direction": "anxious",
+        "intensity": "medium"
+      },
+      {
+        "id": 14,
+        "text": "自分の強みって何だろう",
+        "received_at": "2026-10-22T12:00:00.000Z",
+        "topic": "発信",
+        "direction": "uncertain",
+        "intensity": "medium"
+      },
+      {
+        "id": 15,
+        "text": "SNS の投稿、止まってる",
+        "received_at": "2026-10-22T12:00:00.000Z",
+        "topic": "発信",
+        "direction": "must_do",
+        "intensity": "medium"
+      },
+      {
+        "id": 16,
+        "text": "なんかずっと焦ってる",
+        "received_at": "2026-10-22T12:00:00.000Z",
+        "topic": "気分",
+        "direction": "anxious",
+        "intensity": "medium"
+      }
+    ],
+    "session_theme": "仕事と創作の方向、余白への迷い",
+    "topics": [
+      {
+        "topic": "発信",
+        "fragment_ids": [
+          1,
+          2,
+          4,
+          14,
+          15
+        ]
+      },
+      {
+        "topic": "仕事の事務",
+        "fragment_ids": [
+          3,
+          5,
+          11
+        ]
+      },
+      {
+        "topic": "創作",
+        "fragment_ids": [
+          6,
+          9
+        ]
+      },
+      {
+        "topic": "生活と体",
+        "fragment_ids": [
+          7,
+          12
+        ]
+      },
+      {
+        "topic": "人間関係",
+        "fragment_ids": [
+          8,
+          10
+        ]
+      },
+      {
+        "topic": "予定",
+        "fragment_ids": [
+          13
+        ]
+      },
+      {
+        "topic": "気分",
+        "fragment_ids": [
+          16
+        ]
+      }
+    ],
+    "conditions": [
+      {
+        "fragment_id": 1,
+        "condition": "自分を一言で言えると決めていない"
+      },
+      {
+        "fragment_id": 2,
+        "condition": "自分を一言で言えると決めていない"
+      },
+      {
+        "fragment_id": 3,
+        "condition": "請求書を出す"
+      },
+      {
+        "fragment_id": 4,
+        "condition": "自分を一言で言えると決めていない"
+      },
+      {
+        "fragment_id": 5,
+        "condition": "自分を一言で言えると決めていない"
+      },
+      {
+        "fragment_id": 6,
+        "condition": "断れずに余白がない"
+      },
+      {
+        "fragment_id": 7,
+        "condition": "断れずに余白がない"
+      },
+      {
+        "fragment_id": 8,
+        "condition": "返信をする"
+      },
+      {
+        "fragment_id": 9,
+        "condition": "自分を一言で言えると決めていない"
+      },
+      {
+        "fragment_id": 10,
+        "condition": "断れずに余白がない"
+      },
+      {
+        "fragment_id": 11,
+        "condition": "自分を一言で言えると決めていない"
+      },
+      {
+        "fragment_id": 12,
+        "condition": "断れずに余白がない"
+      },
+      {
+        "fragment_id": 13,
+        "condition": "断れずに余白がない"
+      },
+      {
+        "fragment_id": 14,
+        "condition": "自分を一言で言えると決めていない"
+      },
+      {
+        "fragment_id": 15,
+        "condition": "自分を一言で言えると決めていない"
+      },
+      {
+        "fragment_id": 16,
+        "condition": "焦りの背景が分かる"
+      }
+    ],
+    "roots": [
+      {
+        "root_id": 1,
+        "sentence": "自分を一言で言えると決めていない",
+        "fragment_ids": [
+          1,
+          2,
+          4,
+          5,
+          9,
+          11,
+          14,
+          15
+        ],
+        "leverage": 8,
+        "actionability": "yes",
+        "reason": "一文を書くところから、自分で手をつけられる。",
+        "next_action": "肩書きを一つに絞った自己紹介を一文で書く",
+        "score": 16
+      },
+      {
+        "root_id": 6,
+        "sentence": "断れずに余白がない",
+        "fragment_ids": [
+          6,
+          7,
+          10,
+          12,
+          13
+        ],
+        "leverage": 5,
+        "actionability": "partial",
+        "reason": "予定全体はすぐ変えられなくても、小さな余白を探せる。",
+        "next_action": "今週の予定から自分のための短い時間を一つ選ぶ",
+        "score": 5
+      }
+    ],
+    "focus": {
+      "root_id": 1,
+      "sentence": "自分を一言で言えると決めていない",
+      "actionability": "yes",
+      "reason": "一文を書くところから、自分で手をつけられる。",
+      "next_action": "肩書きを一つに絞った自己紹介を一文で書く",
+      "score": 16
+    },
+    "unmatched_fragment_ids": [
+      3,
+      8,
+      16
+    ],
+    "usage": null,
+    "provenance": {
+      "attributes": {
+        "source": "test:section8-handwritten",
+        "usage": null
+      },
+      "roots": {
+        "source": "test:section8-handwritten",
+        "usage": null
+      },
+      "priority": {
+        "source": "test:section8-handwritten",
+        "usage": null
+      }
+    }
+  }
+}
