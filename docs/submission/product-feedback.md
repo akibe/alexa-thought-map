@@ -66,7 +66,7 @@ The observations below cover the current project rather than general product rat
 
 - **Task / steps:** Read Alexa+ setup information and competition FAQs to plan voice capture and screen behavior.
 - **Expected:** A clear, accessible route to validate the proposed interaction.
-- **Observed:** Device/developer-console integration is unavailable to participants; the FAQ permits a web simulation instead.
+- **Observed:** The listed gated Alexa+ preview tools are unavailable to hackathon participants; the FAQ permits a web simulation instead.
 - **Impact:** High for device-integration confidence, but not a submission blocker.
 - **Workaround:** Built a custom real-MCP web simulator and explicitly labeled the fixed-data demonstration.
 - **Suggestion:** Place access requirements and simulator fidelity limits on each setup path.
@@ -102,4 +102,4 @@ The organizer asks whether the participant would build with the used tools/servi
 - Alexa+/Bedrock: further experimentation may be worthwhile, but device behavior and live inference remain to be validated.
 - Development assistants: faster parallel production, with human concept review and independent technical verification still necessary.
 
-These are **review prompts, not the participant's answer**. Once confirmed, add the actual reuse statement to the relevant groups above. Reconcile video-production tools after the final render.
+These are **review prompts, not the participant's answer**. Once confirmed, add the actual reuse statement to the relevant groups above. The final video-production tools are included above.

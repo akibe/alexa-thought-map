@@ -183,5 +183,5 @@ cmd = ['ffmpeg', '-y', '-hide_banner', '-loglevel', 'warning', '-f', 'concat', '
 subprocess.run(cmd, check=True)
 audio = HERE.parent / 'audio' / 'narration.wav'
 assert audio.exists(), 'Supply the licensed 170-second narration master'
-subprocess.run(['ffmpeg', '-y', '-hide_banner', '-loglevel', 'warning', '-i', str(HERE/'visuals.mp4'), '-i', str(audio), '-i', str(HERE/'captions.en.srt'), '-map', '0:v:0', '-map', '1:a:0', '-map', '2:s:0', '-c:v', 'copy', '-c:a', 'aac', '-b:a', '160k', '-c:s', 'mov_text', '-metadata', 'title=Go On — An AI that listens.', '-metadata:s:s:0', 'language=eng', '-t', '170', '-movflags', '+faststart', str(HERE/'go-on-demo.mp4')], check=True)
+subprocess.run(['ffmpeg', '-y', '-hide_banner', '-loglevel', 'warning', '-i', str(HERE/'visuals.mp4'), '-i', str(audio), '-i', str(HERE/'captions.en.srt'), '-map', '0:v:0', '-map', '1:a:0', '-map', '2:s:0', '-c:v', 'copy', '-c:a', 'aac', '-b:a', '160k', '-af', 'loudnorm=I=-16:TP=-1.5:LRA=11', '-ar', '48000', '-c:s', 'mov_text', '-metadata', 'title=Go On — An AI that listens.', '-metadata:s:s:0', 'language=eng', '-t', '170', '-movflags', '+faststart', str(HERE/'go-on-demo.mp4')], check=True)
 print('Built go-on-demo.mp4, exact English SRT, thumbnail and reproducible editorial cards.')

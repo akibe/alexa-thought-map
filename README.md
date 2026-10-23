@@ -1,5 +1,7 @@
 # Alexa Thought Map
 
+**Go On — An AI that listens. For thoughts still taking shape.** Demo video: https://youtu.be/GcSB8IBaoHU · Reviewer quick start: [docs/submission/judge-guide.en.md](docs/submission/judge-guide.en.md) · License: [MIT](LICENSE)
+
 Tasks 1–2 verified; Tasks 3–5 implemented and locally tested under the [canonical design](docs/2026-10-22-alexa-thought-map.md). Tasks 6–8 passed [bounded local browser acceptance](docs/browser-acceptance.md) with the real MCP App, separate-origin simulator and isolated synthetic demo; both browser-discovered blockers were fixed and retested. **Live Bedrock quality, real voice/Alexa/Echo and user product acceptance remain UNVERIFIED.** The coordinator authorized reversible local implementation ahead of the blocked live gate; the fixed demo does not close that gate.
 
 Requires Node.js 26 or newer.
